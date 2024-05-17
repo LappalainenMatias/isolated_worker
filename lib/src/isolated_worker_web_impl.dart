@@ -1,6 +1,6 @@
 import 'dart:async' show Completer, StreamSubscription;
 import 'dart:collection' show LinkedHashMap;
-import 'dart:html';
+import 'package:web/web.dart';
 
 import 'isolated_worker_web.dart';
 
